@@ -3,9 +3,9 @@
 # | ID: 1001541359
 # | Email: seth.jaksik@mavs.uta.edu
 ##|################################################
-# | neural_network.py
+# | linear_regression.py
 # |
-# | Use: Neural Network to classify data sets
+# | Use: Calculate linear regression of data
 ##|################################################
 # | Licence: MIT License
 ##|################################################
